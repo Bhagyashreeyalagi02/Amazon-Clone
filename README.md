@@ -1,12 +1,6 @@
 # Amazon-Clone
 A clone of the Amazon website built using HTML and CSS, designed to replicate the layout, design, and user interface of the popular e-commerce platform. This project demonstrates my skills in front-end development, including responsive design, layout techniques, and attention to detail in recreating a complex web page.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- 
 ## Features
 
 - *Responsive Design*: The layout is fully responsive, ensuring a seamless user experience on desktops, tablets, and mobile devices.
@@ -22,13 +16,5 @@ A clone of the Amazon website built using HTML and CSS, designed to replicate th
 - *Google Fonts*: To enhance the visual appeal of text elements.
 - *Font Awesome*: For icons used throughout the site to mimic Amazon’s icons.
 
-## Screenshots
 
-![Screenshot of Amazon Clone](https://via.placeholder.com/800x400)  
-Description: Homepage of the Amazon clone.
-
-![Screenshot of Amazon Clone](https://via.placeholder.com/800x400)  
-Description: Product listing page.
-
-(Replace the image URLs with actual screenshots of your project.)
 
