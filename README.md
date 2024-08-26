@@ -1,18 +1,34 @@
 # Amazon-Clone
-This is a clone of popular e-commerce website Amazon. 
+A clone of the Amazon website built using HTML and CSS, designed to replicate the layout, design, and user interface of the popular e-commerce platform. This project demonstrates my skills in front-end development, including responsive design, layout techniques, and attention to detail in recreating a complex web page.
 
-I have created it using HTML & CSS
+## Table of Contents
 
-Amazon Clone Project is build using HTML and CSS, highlighting that it aims to replicate the core features and user experience of the original website.
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- 
+## Features
 
-This Amazon clone have a similar layout and structure to the original Amazon website. It will consist of a header, main content section, and footer, only home Page is clone.
+- *Responsive Design*: The layout is fully responsive, ensuring a seamless user experience on desktops, tablets, and mobile devices.
+- *HTML and CSS Only*: Built entirely with HTML and CSS, focusing on structure, styling, and layout without any JavaScript functionality.
+- *Recreated Components*: Includes commonly used Amazon components such as the header, footer, product listings, and navigation menus.
+- *CSS Flexbox and Grid*: Utilizes CSS Flexbox and Grid for creating complex layouts and aligning elements.
+- *Custom Fonts and Icons*: Implements custom fonts and icons to closely resemble the original Amazon website.
 
-In the header section, there is a navigation bar at the top of the page. It will include the Amazon logo on the left-hand side, followed by various navigation links such as "Search Bar", "home and returns", "language", "Cart", "sign in", "location".
+## Technologies Used
 
-The main content section is a central area of the webpage. It will display various products in a grid or list format including there images, names and see more options.
+- *HTML5*: For structuring the content of the web pages.
+- *CSS3*: For styling and creating responsive layouts using Flexbox and Grid.
+- *Google Fonts*: To enhance the visual appeal of text elements.
+- *Font Awesome*: For icons used throughout the site to mimic Amazon’s icons.
 
-The footer section will contain links such as "About Us," "Contact Us," "Privacy Policy," and "Terms of Service."
+## Screenshots
 
-The styling of this Amazon clone will be similar to the original website. It will use a combination of colors such as Amazon's signature orange, black, and white.
+![Screenshot of Amazon Clone](https://via.placeholder.com/800x400)  
+Description: Homepage of the Amazon clone.
 
-Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
+![Screenshot of Amazon Clone](https://via.placeholder.com/800x400)  
+Description: Product listing page.
+
+(Replace the image URLs with actual screenshots of your project.)
+
